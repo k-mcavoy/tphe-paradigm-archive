@@ -7,7 +7,7 @@ Architectural documentation and clean-room audit methodology for modeling dynami
 ## 👥 Part 1: Author Biography
 
 ### Operational Philosophy
-I operate outside the traditional academic and corporate echo chambers. My expertise was not acquired in a lecture hall; it was forged through thousands of hours of high-stakes empirical observation in highly insular, dogmatic environments. Survival in these systems required an acute ability to read the 'event horizon' of human communication—deciphering the hidden intent, unspoken variables, and psychological stressors that lie beneath surface-level compliance masks.
+I operate outside the traditional academic and corporate echo chambers. My expertise was forged through thousands of hours of high-stakes empirical observation in highly insular, dogmatic environments. Survival in these systems required an acute ability to read the 'event horizon' of human communication—deciphering the hidden intent, unspoken variables, and psychological stressors that lie beneath surface-level compliance masks.
 
 I do not look only at human behavior or logic directly; I map the forces that distort them. By remaining intentionally un-homogenized by conventional institutional training, I preserve a raw, highly flexible analytical framework that identifies algorithmic and human edge-cases that traditional methodologies completely miss.
 
